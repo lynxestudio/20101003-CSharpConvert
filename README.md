@@ -4,20 +4,12 @@ En el libro Java Puzzlers: Traps, Pitfalls, and Corner Cases de Joshua Bloch y N
 </p>
 <p align="justify">
 Aquí algunos ejemplos del libro con las mismas preguntas, la diferencia únicamente es la implementación de Java a C#.
+<ol>
+<li>¿Es en todos los casos seguro que el método IsOdd determine correctamente si el número entero es par o no?</li>
+<li>¿Qué valor imprime el siguiente programa?</li>
+<li>¿Cuál es el resultado del siguiente programa?</li>
+</ol>
 </p>
-<p>
-1-. En el siguiente programa ¿Es en todos los casos seguro que el método IsOdd determine correctamente si el número entero es par o no?
-</p>
-<img src="images/Puzzle1.png"/>
-<p>
-2-.¿Qué valor imprime el siguiente programa?
-</p>
-<img src="images/Puzzle2.png"/>
-<p align="justify">
-3-. ¿Cuál es el resultado del siguiente programa?
-</p>
-<img src="images/Puzzle3.png">
-<p>
 Analicemos cada uno de los ejemplos.
 </p>
 <h3>Ejemplo 1</h3>
