@@ -77,7 +77,10 @@ Console.Write((int)x);
 <p>
 Para eliminar la confusión cambiemos el código a una conversión explicita:
 </p>
-<img src="images/Puzzle3_cast.png">
+<pre>
+Console.Write(true ? x : (char)0);
+Console.Write(false ? (char)i : x);
+</pre>
 <p>
 El resultado es el esperado como se muestra en la siguiente imagen:
 </p>
